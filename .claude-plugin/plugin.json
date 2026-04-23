@@ -1,0 +1,26 @@
+{
+  "name": "matilha-sysdesign-pack",
+  "version": "0.1.0",
+  "description": "Matilha companion pack — 19 system-design skills synthesized from Zhiyong Tan's 'Acing the System Design Interview' + practical NFR clarification patterns + 11 design case studies (Craigslist, Rate Limiting, CDN, Messaging, Airbnb, News Feed, etc.). You lead. Agents hunt.",
+  "author": {
+    "name": "Danilo de Sousa"
+  },
+  "homepage": "https://github.com/danilods/matilha-sysdesign-pack",
+  "repository": "https://github.com/danilods/matilha-sysdesign-pack",
+  "license": "MIT",
+  "keywords": [
+    "matilha-pack",
+    "sysdesign",
+    "system-design",
+    "distributed-systems",
+    "scalability",
+    "nfr",
+    "architecture",
+    "tan",
+    "cross-tool",
+    "claude-code",
+    "cursor",
+    "codex",
+    "gemini"
+  ]
+}
