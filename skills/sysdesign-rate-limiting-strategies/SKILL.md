@@ -1,7 +1,7 @@
 ---
 name: sysdesign-rate-limiting-strategies
 description: Use when choosing a rate-limiting algorithm — picks token bucket, leaky bucket, fixed window, or sliding window and places it stateful vs stateless.
-category: matilha
+category: sysdesign
 version: "1.0.0"
 requires: []
 optional_companions: []

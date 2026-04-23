@@ -1,7 +1,7 @@
 ---
 name: sysdesign-event-streaming-kafka
 description: Use when deciding between Kafka and a simpler queue — picks Kafka for decoupling, ordered delivery, and replay, or rejects it for low-volume point-to-point work.
-category: matilha
+category: sysdesign
 version: "1.0.0"
 requires: []
 optional_companions: []

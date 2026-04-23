@@ -1,7 +1,7 @@
 ---
 name: sysdesign-interview-flow-50min
 description: Use when approaching a new system design — a 50-minute flow (requirements → API → data model/arch → deep dive → monitoring) that doubles as a spec-authoring template.
-category: cog
+category: sysdesign
 version: "1.0.0"
 requires: []
 optional_companions: []

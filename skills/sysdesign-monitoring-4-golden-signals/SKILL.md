@@ -1,7 +1,7 @@
 ---
 name: sysdesign-monitoring-4-golden-signals
 description: Use when deciding what to monitor and alert on — applies the 4 golden signals (Latency, Traffic, Errors, Saturation) and splits page-worthy from dashboard-only.
-category: matilha
+category: sysdesign
 version: "1.0.0"
 requires: []
 optional_companions: []

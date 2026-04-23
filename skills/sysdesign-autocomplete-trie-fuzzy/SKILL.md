@@ -1,7 +1,7 @@
 ---
 name: sysdesign-autocomplete-trie-fuzzy
 description: Use when designing autocomplete / search suggestions — weighted trie for top-k prefix matches, query sampling, fuzzy matching, and pre-serve moderation.
-category: cog
+category: sysdesign
 version: "1.0.0"
 requires: []
 optional_companions: []

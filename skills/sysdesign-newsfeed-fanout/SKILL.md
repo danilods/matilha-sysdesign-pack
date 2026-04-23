@@ -1,7 +1,7 @@
 ---
 name: sysdesign-newsfeed-fanout
 description: Use when designing a social feed (Twitter, Facebook, Instagram-style) and weighing fan-out on write vs fan-out on read, especially with celebrity-scale accounts.
-category: cog
+category: sysdesign
 version: "1.0.0"
 requires: []
 optional_companions: []

@@ -1,7 +1,7 @@
 ---
 name: sysdesign-tradeoff-framing
 description: Use when a team is about to make an architectural choice (X vs Y, SQL vs NoSQL, sync vs async) — forces explicit tradeoff articulation tied to NFR priorities.
-category: cog
+category: sysdesign
 version: "1.0.0"
 requires: []
 optional_companions: []

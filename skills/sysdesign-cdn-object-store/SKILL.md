@@ -1,7 +1,7 @@
 ---
 name: sysdesign-cdn-object-store
 description: Use when serving images, video, or downloads globally — places a CDN in front of an object store, names invalidation strategy, and handles private-content auth.
-category: matilha
+category: sysdesign
 version: "1.0.0"
 requires: []
 optional_companions: []

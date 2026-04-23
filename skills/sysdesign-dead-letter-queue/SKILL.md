@@ -1,7 +1,7 @@
 ---
 name: sysdesign-dead-letter-queue
 description: Use when handling message failures in a queue or stream — installs a DLQ with retry policy, backoff, alerting on growth, and a reprocess-after-fix flow.
-category: matilha
+category: sysdesign
 version: "1.0.0"
 requires: []
 optional_companions: []

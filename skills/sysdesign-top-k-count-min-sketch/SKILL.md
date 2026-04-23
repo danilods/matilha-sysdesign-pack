@@ -1,7 +1,7 @@
 ---
 name: sysdesign-top-k-count-min-sketch
 description: Use when designing a real-time top-K dashboard (top trending, top errors, top products) — count-min sketch for bounded memory, Lambda vs Kappa architecture, mandatory checkpointing.
-category: cog
+category: sysdesign
 version: "1.0.0"
 requires: []
 optional_companions: []

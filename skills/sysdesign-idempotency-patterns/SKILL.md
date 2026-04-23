@@ -1,7 +1,7 @@
 ---
 name: sysdesign-idempotency-patterns
 description: Use when designing write endpoints that may be retried — install idempotency keys, dedup stores, and at-most-once semantics to prevent duplicate effects.
-category: matilha
+category: sysdesign
 version: "1.0.0"
 requires: []
 optional_companions: []

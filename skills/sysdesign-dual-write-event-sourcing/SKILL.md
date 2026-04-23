@@ -1,7 +1,7 @@
 ---
 name: sysdesign-dual-write-event-sourcing
 description: Use when a design writes to two stores on one action (DB + Kafka, DB + cache, DB + search) or when deciding whether event sourcing is worth its complexity.
-category: cog
+category: sysdesign
 version: "1.0.0"
 requires: []
 optional_companions: []
