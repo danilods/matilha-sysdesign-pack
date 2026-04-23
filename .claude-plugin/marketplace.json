@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-marketplace.json",
+  "name": "matilha-sysdesign-pack",
+  "owner": {
+    "name": "Danilo de Sousa",
+    "email": "danilod2.sousa@gmail.com",
+    "url": "https://github.com/danilods"
+  },
+  "metadata": {
+    "description": "Matilha companion pack — system design skills (Zhiyong Tan + NFRs + 11 design cases).",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "matilha-sysdesign-pack",
+      "source": "./",
+      "description": "19 system-design skills auto-activated when user intent touches distributed systems, NFRs, or architecture decisions.",
+      "version": "0.1.0",
+      "category": "sysdesign",
+      "tags": ["matilha-pack", "sysdesign", "distributed-systems", "scalability", "nfr"]
+    }
+  ]
+}
