@@ -3,6 +3,8 @@
 > **You lead. Agents hunt.**
 > Matilha companion pack — system design skills.
 
+> 🏠 **This is a companion pack.** The official matilha entry point is [**danilods/matilha-skills**](https://github.com/danilods/matilha-skills) — start there for the full install guide + ecosystem overview. Install this pack only after the core is set up (via `/matilha-install` in Claude Code, or the explicit commands below).
+
 19 skills synthesized from Zhiyong Tan's *Acing the System Design Interview* plus practical NFR clarification patterns and 11 design case studies. Auto-activates when user intent touches distributed systems, scalability, non-functional requirements, or architecture decisions.
 
 ## What this pack covers
