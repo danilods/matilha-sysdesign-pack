@@ -1,6 +1,6 @@
 {
   "name": "matilha-sysdesign-pack",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Matilha companion pack — 19 system-design skills synthesized from Zhiyong Tan's 'Acing the System Design Interview' + practical NFR clarification patterns + 11 design case studies (Craigslist, Rate Limiting, CDN, Messaging, Airbnb, News Feed, etc.). You lead. Agents hunt.",
   "author": {
     "name": "Danilo de Sousa"
